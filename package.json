@@ -1,0 +1,26 @@
+{
+  "name": "@moiselugo-04/simple-example-package",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moiseslugo-04/simple-example-package.git"
+  },
+  "keywords": [
+    "example",
+    "package"
+  ],
+  "author": "Moises Lugo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moiseslugo-04/simple-example-package/issues"
+  },
+  "homepage": "https://github.com/moiseslugo-04/simple-example-package#readme",
+  "description": "",
+  "dependencies": {
+    "npm-packlist": "^10.0.0"
+  }
+}
